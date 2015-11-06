@@ -5,7 +5,7 @@
 //   SlidePuzzleGUI.java   - implements the GUI interface.
 //   SlidePuzzleModel.java - the logical functioning.
 
-import javax.swing.JFrame;
+import javax.swing.*;
 
 ///////////////////////////////////////////// class SlidePuzzle
 class SlidePuzzle {

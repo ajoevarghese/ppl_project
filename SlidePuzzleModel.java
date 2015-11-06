@@ -1,6 +1,4 @@
-// SlidePuzzleModel.java - Slide pieces to correct position.
 
-package slidepuzzle.model;
 
 /////////////////////////////////////////// class SlidePuzzleModel
 public class SlidePuzzleModel {
